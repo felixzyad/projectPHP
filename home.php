@@ -333,7 +333,7 @@ p {
 <ul>
     <img src="logo.jpg" alt="Logo" /> <!-- Remplacez 'votre_image.png' par le chemin de votre image -->
     <li><a href="home.php">Home</a></li>
-    <li><a href="#">About Us</a></li>
+    
     <li>
       <a href="#">Operations &#x25BE;</a>
       <ul class="dropdown">
