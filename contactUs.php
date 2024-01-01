@@ -230,9 +230,8 @@
     <nav>
         <a href="Home.php" target="_blank">HOME</a>
         <a href="intro.php" target="_blank">Back to Intro</a>
-        <a href="ABOUTUS.html" >ABOUTUS</a>
         <a href="contactUs.php" >CONTACTUS</a>
-
+        <a href="logout.php" >LOGOUT</a>
         <!-- Barre de recherche -->
         
     </nav>
